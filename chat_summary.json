@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Button with custom text functionality\", \"checked\": true}, {\"feature\": \"Ability to change button colors\", \"checked\": false}, {\"feature\": \"Button click animation effects\", \"checked\": false}, {\"feature\": \"Accessibility options for button\", \"checked\": true}, {\"feature\": \"Button size customization options\", \"checked\": false}], \"input_token_count\": 247, \"output_token_count\": 83, \"time_taken\": \"0:00:00.890139\"}",
+        "timestamp": "10092024062917",
+        "message_id": "guest10092024062821"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style or design do you envision for the 'Hello World' button?\", \"option1\": \"A simple rectangular button\", \"option2\": \"A rounded button with a gradient effect\"}, {\"question 2\": \"Where would you like the button to be positioned in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}], \"input_token_count\": 293, \"output_token_count\": 95, \"time_taken\": \"0:00:01.493183\"}",
         "timestamp": "10092024062832",
