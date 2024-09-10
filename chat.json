@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style or design do you envision for the 'Hello World' button?\", \"option1\": \"A simple rectangular button\", \"option2\": \"A rounded button with a gradient effect\"}, {\"question 2\": \"Where would you like the button to be positioned in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}], \"input_token_count\": 293, \"output_token_count\": 95, \"time_taken\": \"0:00:01.493183\"}",
+        "message_id": "guest10092024062821",
+        "timestamp": "10092024062832",
+        "component_file_name": "simple_cta_component_1725949629",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019m working on adding a button that says hello world.",
         "message_id": "guest10092024062821",
